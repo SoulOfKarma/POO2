@@ -1,0 +1,8 @@
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\bin\Debug\Test.exe.config
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\bin\Debug\Test.exe
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\bin\Debug\Test.pdb
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\bin\Debug\Biblioteca.dll
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\bin\Debug\Biblioteca.pdb
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\obj\Debug\Test.exe
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Test\obj\Debug\Test.pdb

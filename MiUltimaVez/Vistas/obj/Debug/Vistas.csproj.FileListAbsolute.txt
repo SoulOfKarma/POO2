@@ -1,0 +1,16 @@
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\bin\Debug\Vistas.exe.config
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\bin\Debug\Vistas.exe
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\bin\Debug\Vistas.pdb
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\bin\Debug\Biblioteca.dll
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\bin\Debug\Biblioteca.pdb
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\MainWindow.g.cs
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\App.g.cs
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\MainWindow.baml
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.g.resources
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.csproj.GenerateResource.Cache
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.exe
+c:\Users\Alumno\documents\visual studio 2015\Projects\MiUltimaVez\Vistas\obj\Debug\Vistas.pdb
